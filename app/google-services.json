@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61722400070",
+    "project_id": "labtest2-1115d",
+    "storage_bucket": "labtest2-1115d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61722400070:android:134f2afcfb695e2e994147",
+        "android_client_info": {
+          "package_name": "com.example.studentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61722400070-buns7buhmosef0l8a2ajjag5i9dotc10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2rS_dBpZC6LQq6X864towNxSxJ7KpSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61722400070-buns7buhmosef0l8a2ajjag5i9dotc10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
